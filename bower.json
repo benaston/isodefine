@@ -1,0 +1,28 @@
+{
+  "name": "isodefine",
+  "version": "0.0.1",
+  "homepage": "https://www.github.com/benaston/isodefine",
+  "authors": [ "Ben Aston" ],
+  "description": "An isomorphic wrapper for defining exports in Node.js and browsers.",
+  "keywords": ["define", "isomorphic", "exports", "require-js"],
+  "main": "dist/isodefine.min.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:benaston/isodefine.git"
+  },
+  "ignore": [
+    "lib",
+    "node_modules",
+    "reports",
+    "spec",
+    "src",
+    ".gitignore",
+    "bower.json",
+    "Gruntfile.js",
+    "license",
+    "package.json",
+    "readme.md",
+    "spec-runner.html"
+  ]
+}
